@@ -1,7 +1,10 @@
 h1 {
-    font-size: 4rem;
+    font-size: 40pt;
 }
 
 p {
-    font-size:25px;
+    font-size:25pt;
+}
+body{
+    background-color: aquamarine;
 }
